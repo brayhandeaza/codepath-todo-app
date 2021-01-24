@@ -1,8 +1,8 @@
-# Project 1 - *Name of App Here*
+# Project 1 - *Todo App*
 
-**Name of your app** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+**Todo App** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
-Submitted by: **Your Name Here**
+Submitted by: **Brayhan De Aza**
 
 Time spent: 2 hours spent in total
 
@@ -32,17 +32,15 @@ GIF created with [Recordit](https://recordit.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I just felt a lit of bit lost at the beginning with the Java syntax.
 
 ## License
 
     Copyright 2021 Brayhan De Aza
 
     Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
+    [Licensed under the Apache License](/LISENCE).
+    [Recordit](https://recordit.co/).
 
     Unless required by applicable law or agreed to in writing, software
     distributed under the License is distributed on an "AS IS" BASIS,
